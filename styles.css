@@ -101,7 +101,7 @@ section#big-image {
     margin: 3em 0;
     border-color: #3c478f;
 }
-.btn-custom:hover {
+.btn-custom:hover, .btn-custom:active {
     background-color: #3c478f;
 }
 footer>ul>li {
